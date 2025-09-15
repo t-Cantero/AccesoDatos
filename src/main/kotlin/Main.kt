@@ -10,4 +10,5 @@ fun main() {
     println("Ruta absoluta: " + rutaRelativa.toAbsolutePath()) // ruta completa
     println("Ruta absoluta: " + rutaAbsolutaWin) // ruta absoluta Windows
     println("Ruta absoluta: " + rutaAbsolutaNix) // ruta absoluta Linux/macOS
+
 }
